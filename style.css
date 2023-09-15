@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 .my-navbar-color {
-    background-color: #788a7c; /* Replace with your desired color code */
+    background-color: #788a7c;
 }
 
 
@@ -41,4 +41,21 @@
     color:#6c757d;
     width: max-content;
     height: max-content;
+}
+.section2-bg-color
+{
+    background-color: #788a7c;
+}
+.section2-heading
+{
+ color:  #6ed198;   
+}
+.section2-text-color
+{
+    color:white;
+}
+.logo-image
+{ 
+    width:100px;
+    height:auto;
 }
