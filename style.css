@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.my-navbar-color {
+    background-color: #788a7c; /* Replace with your desired color code */
+}
+
+
+.nav-link 
+{
+    color:white!important;
+}
+.navbar-brand
+{
+    color:white!important; 
+}
+.header-img
+{
+    background-image:url(images/nav-image.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ #banner_btn_1
+{
+    border:2px solid white;
+    text-align: center;
+    outline:none;
+    border-radius:0 ;
+    color: white;
+}
