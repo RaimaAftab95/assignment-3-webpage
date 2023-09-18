@@ -57,3 +57,13 @@
 .text-color{
     color:#6c757d;
 }
+.icon-color {
+    color:white;
+  }
+  .formstyle
+  {
+    border-radius:0 ;
+    outline:none;
+    border:2px solid white;
+    box-shadow: none;
+  }
